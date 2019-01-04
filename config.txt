@@ -1,6 +1,6 @@
 token=NTMwNzc0NTIyNzg2MjE3OTg0.DxESTQ._sk-z7sfdycPhy4DbuJA3JGWxB0
 owner=452182527478726657
-prefix= B
-game= Bhelp
+prefix= 1
+game= 1help
 stayinchannel=true
 songinstatus=true 
